@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAQ22-EENsql9sV9bwnqjD1clqCcDKOXjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114281209374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Ali.NBA</string>
+	<key>PROJECT_ID</key>
+	<string>nba-app-5d4f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nba-app-5d4f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114281209374:ios:841be33bf23b1c9c78580f</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-5946324326615475~1156098480</string>
+</dict>
+</plist>
