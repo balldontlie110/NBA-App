@@ -23,9 +23,7 @@ struct NBAApp: App {
                 .environment(\.managedObjectContext, PersistenceController.shared.container.viewContext)
                 .environmentObject(AuthModel())
                 .onAppear {
-                    Task {
-                        try await UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound])
-                    }
+                    Task { try await UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) }
                 }
         }
     }
